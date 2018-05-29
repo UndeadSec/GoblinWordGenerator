@@ -1,0 +1,2 @@
+# GoblinWordGenerator
+Python wordlist generator 
