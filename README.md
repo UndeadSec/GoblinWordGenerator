@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/GoblinWordGenerator/master/goblin.png">  
+  <img src="https://raw.githubusercontent.com/UndeadSec/GoblinWordGenerator/master/goblin.png" style="height: 50%; width: 50%;">  
 </p>
 
 <h1 align="center">GoblinWordGenerator</h1>
