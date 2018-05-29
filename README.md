@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/GoblinWordGenerator/master/Images/goblin.svg">  
+  <img src="https://raw.githubusercontent.com/UndeadSec/GoblinWordGenerator/master/goblin.svg">  
 </p>
 
 <h1 align="center">GoblinWordGenerator</h1>
@@ -39,4 +39,4 @@ python3 goblin.py
 ```
 
 ### SCREENSHOT
-![Shot](https://github.com/UndeadSec/GoblinWordGenerator/blob/master/Images/sc.png)
+![Shot](https://github.com/UndeadSec/GoblinWordGenerator/blob/master/sc.png)
