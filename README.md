@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/UndeadSec/GoblinWordGenerator/master/goblin.png">  
 </p>
 
-<h1 align="center">GoblinWordGenerator</h1>
+<h1 align="center">GoblinWordGenerator 2.0</h1>
 <p align="center">
   Python wordlist generator 
 </p>
@@ -10,8 +10,8 @@
 ### MAINTAINERS
 * **Alisson Moretto** | 
 Twitter: <a href="https://twitter.com/A1S0N_">@A1S0N_</a>
-Github: <a href="https://github.com/A1S0N">@A1S0N</a>
-
+Github: <a href="https://github.com/A1S0N">@A1S0N</a> and <a href="https://github.com/samjunior416">@SAMJUNIOR</a>
+Telegram: <a href="https://t.me/A1S0N">@A1S0N</a> and <a href="https://t.me/un00mz">@SAM JUNIOR</a>
 ### PREREQUISITES
 
 * python 3.x 
