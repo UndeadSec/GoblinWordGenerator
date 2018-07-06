@@ -11,7 +11,6 @@
 * **Alisson Moretto** | 
 Twitter: <a href="https://twitter.com/A1S0N_">@A1S0N_</a>
 Github: <a href="https://github.com/A1S0N">@A1S0N</a>
-Telegram: <a href="https://t.me/A1S0N">@A1S0N</a> 
 * **Sam Junior** |
 Github: <a href="https://github.com/samjunior416">@SamJunior</a>
 Telegram: <a href="https://t.me/un00mz">@SamJunior</a>
